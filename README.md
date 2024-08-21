@@ -6,9 +6,9 @@
 	  BİLGİLENDİRME
 </h3>
 
-BU BOT [ATİLLA](https://www.youtube.com/@Atillafordiscord) TARAFINDAN HAZIRLANMIŞTIR. TÜRK AÇIK KAYNAK TOPLULUĞUNA HEDİYEDİR.
+DEVELOPER BY QUİX
 
-ÜCRETLİ BOT YAPTIRMAK İÇİN @navatlas
+ÜCRETLİ BOT YAPTIRMAK İÇİN DC: 1quix
 <h3 align="center">
 	  İçerik
 
@@ -20,8 +20,6 @@ BU BOT [ATİLLA](https://www.youtube.com/@Atillafordiscord) TARAFINDAN HAZIRLANM
 * `!kodkullan <REEDEMCODE>` - Satın aldığınız Vip aboneliği etkinleştirin. !kodkullan <kod>
 * `!gen <abonelik> <servis>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
 * `!vipcreate <kaç adet kod üreticen> <haftalık/aylık>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
-
-  **Herhangi bir sorunda Zenithe gelerek yardım alabilirsiniz. [Tıkla](https://discord.gg/5fHY5DUJA5) **
 
 
 <h3 align="center">
